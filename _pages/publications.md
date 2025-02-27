@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl) profile.
+You can find the most recent pubulications on [Google Scholar](https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl) profile.
 
 Journal Publications
 ======

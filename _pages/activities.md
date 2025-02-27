@@ -7,6 +7,7 @@ author_profile: true
 Campus activities I attended during my bachelor and doctoral periods @ Zhejiang University, and during my work @ Shanghai AI Lab.
 
 ### Academic activities
+* 2024.12- , Reviewer of IEEE Transactions on Intelligent Transportation Systems (TITS)
 * 2024.08- , Reviewer of IEEE Transactions on Information Forensics & Security (TIFS)
 * 2023.09- , Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
 * 2023.09- , Reviewer of IEEE International Conference on Intelligent Transportation Systems (ITSC)
@@ -18,6 +19,7 @@ Campus activities I attended during my bachelor and doctoral periods @ Zhejiang 
 * 2021.09-2021.12, GTA of class "Traffic Engineering" in Imperial College London.
 
 ### Academic meetings
+* 2024.06, present in 2024 IEEE Intelligent Vehicles Symposium (IV). 
 * 2023.10, present in 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC).
 * 2021.03 , [AI UK](https://www.turing.ac.uk/ai-uk), an online event hosted by the Turing to showcase the very best of UK academic work in artificial intelligence (AI); bringing together leading thinkers, innovative businesses and specialist third sector bodies.
 

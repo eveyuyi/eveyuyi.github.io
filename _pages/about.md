@@ -10,15 +10,15 @@ redirect_from:
 
 I am Dr. Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies at leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
 
- My research interests spans Intelligent Transportation Systems, AI Safety, Data Economics, and the development of AI agents. I am particularly passionate about:
-- Exploring the societal impacts of AI in intelligent systems
+ My research interests spans Multimodal Large Lanugage Models(MLLMs), Intelligent Transportation Systems, MLLM Safety, and AI agents. I am particularly passionate about:
+- Exploring the inner safety alignment of MLLMs and their societal impacts of AI in intelligent systems
 - Optimizing intelligent systems via advanced AI techniques
 - Developing AI-driven simulation platforms
 
  I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp).  My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. My academic journey has been enriched by international experiences at institutions including [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk). 
  
  
- My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored over 16 peer-reviewed publications in journals and conferences, as well as actively contributed to national and municipal research projects. Additionally, I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serve as a reviewer for journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
+ My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored over 20 peer-reviewed publications in journals and conferences, as well as actively contributed to national and municipal research projects. Additionally, I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serve as a reviewer for journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
 
 As a researcher, I am committed to developing AI technologies that not only advance the field of Intelligent Transportation Systems but also contribute positively to society. I strive to create solutions that enhance urban mobility, promote sustainability, and ensure equitable access to the benefits of smart city innovations. My life motto: “It is better to light a candle than to curse the darkness.”
 
@@ -38,10 +38,10 @@ Education
 
 Research Interests
 ======
+* AI Safety
 * Traffic State Estimation
 * Traffic Flow Modeling  
 * Intelligent Traffic System 
-* Data Economics
 
 
 Selected Publications
@@ -60,4 +60,4 @@ Selected Publications
 
 * Cui, Y., Yu, Y., Wang, D., 2021. Impact of the Link Length on the Delay in Two-Way Signal Coordination. IEEE Access 9, 130823–130833. https://doi.org/10.1109/ACCESS.2021.3113695
 
-* Yu, Y., Chen, M., Qi, H., Wang, D., 2020. Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access 8, 32850–32861. https://doi.org/10.1109/ACCESS.2020.2970530
+* Yu, Y., Chen, M., Qi, H., Wang, D., 2020. Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access 8, 32850–32861.
