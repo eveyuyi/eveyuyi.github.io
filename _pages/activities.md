@@ -7,6 +7,7 @@ author_profile: true
 Campus activities I attended during my bachelor and doctoral periods @ Zhejiang University, and during my work @ Shanghai AI Lab.
 
 ### Academic activities
+* 2025.06- , Reviewer of Reliability Engineering & System Safety
 * 2024.12- , Reviewer of IEEE Transactions on Intelligent Transportation Systems (TITS)
 * 2024.08- , Reviewer of IEEE Transactions on Information Forensics & Security (TIFS)
 * 2023.09- , Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)

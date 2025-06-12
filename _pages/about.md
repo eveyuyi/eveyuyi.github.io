@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dr. Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies at leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
+I am Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies at leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
 
  My research interests spans Multimodal Large Lanugage Models(MLLMs), Intelligent Transportation Systems, MLLM Safety, and AI agents. I am particularly passionate about:
 - Exploring the inner safety alignment of MLLMs and their societal impacts of AI in intelligent systems
@@ -60,4 +60,4 @@ Selected Publications
 
 * Cui, Y., Yu, Y., Wang, D., 2021. Impact of the Link Length on the Delay in Two-Way Signal Coordination. IEEE Access 9, 130823–130833. https://doi.org/10.1109/ACCESS.2021.3113695
 
-* Yu, Y., Chen, M., Qi, H., Wang, D., 2020. Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access 8, 32850–32861.
+* Yu, Y., Chen, M., Qi, H., Wang, D., 2020. Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access 8, 32850–32861. https://doi.org/10.1109/ACCESS.2020.2970530
