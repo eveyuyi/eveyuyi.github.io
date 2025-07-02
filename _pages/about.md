@@ -59,7 +59,7 @@ Selected Publications
 
 * Cui, Y., **Yu, Y.**, Cai, Z., Wang, D. (2022). Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. Journal of Urban Planning and Development, 148(1), 04021062.
 
-* **Yu Y**, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), accept.
+* **Yu Y**, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science).
 
 * **Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y. (2024). Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense. In 2024 IEEE Intelligent Vehicles Symposium (IV), pp. 521-526.
 
