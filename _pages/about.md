@@ -10,14 +10,14 @@ redirect_from:
 
 I am Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies at leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
 
- My research interests spans Multimodal Large Lanugage Models(MLLMs), Intelligent Transportation Systems, MLLM Safety, and AI agents. I am particularly passionate about:
-- Exploring the inner safety alignment of MLLMs and their societal impacts of AI in intelligent systems
-- Optimizing intelligent systems via advanced AI techniques
-- Developing AI-driven simulation platforms
+My research focuses on developing next-generation urban systems:
+- **Responsible AI** development ensuring trustworthy and equitable smart city solutions
+- **Multimodal Large Language Models (MLLMs)** for real-world safety applications
+- **AI-driven optimization** of intelligent transportation systems
+- **Multi-agent systems** and reinforcement learning for traffic control
 
- I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp). My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. 
- <!-- My academic journey has been enriched by international experiences at institutions including [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk).  -->
- 
+
+ I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp). My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017.  
  
  My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored over 20 peer-reviewed publications in journals and conferences, as well as actively contributed to national and municipal research projects. Additionally, I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serve as a reviewer for journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
 
