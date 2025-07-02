@@ -15,12 +15,13 @@ I am Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shl
 - Optimizing intelligent systems via advanced AI techniques
 - Developing AI-driven simulation platforms
 
- I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp).  My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. My academic journey has been enriched by international experiences at institutions including [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk). 
+ I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp). My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. 
+ <!-- My academic journey has been enriched by international experiences at institutions including [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk).  -->
  
  
  My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored over 20 peer-reviewed publications in journals and conferences, as well as actively contributed to national and municipal research projects. Additionally, I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serve as a reviewer for journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
 
-As a researcher, I am committed to developing AI technologies that not only advance the field of Intelligent Transportation Systems but also contribute positively to society. I strive to create solutions that enhance urban mobility, promote sustainability, and ensure equitable access to the benefits of smart city innovations. My life motto: “It is better to light a candle than to curse the darkness.”
+As a researcher, I am committed to developing AI technologies that not only advance the field of Intelligent Transportation Systems but also contribute positively to society. I strive to create solutions that enhance urban mobility, promote sustainability, and ensure equitable access to the benefits of smart city innovations. My life motto: "It is better to light a candle than to curse the darkness."
 
 
 Education
@@ -38,26 +39,28 @@ Education
 
 Research Interests
 ======
-* AI Safety
-* Traffic State Estimation
-* Traffic Flow Modeling  
+* Responsible AI
+* Multimodal Large Lanugage Models
 * Intelligent Traffic System 
+* Traffic Flow Modeling  
 
 
 Selected Publications
 ======
-* Zeng, J, Yu, Y, Chen, Y, Yang, D, Zhang, L, and Wang, D (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies 146, 103957. 10.1016/j.trc.2022.103957.
+* Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li, L., Wang, F.-Y. (2025). Building intelligence identification system via large language model watermarking: a survey and beyond. Artificial Intelligence Review, 58(8), 1-58.
 
-* Qi H, Yu Y, Tang Q, Hu X (2022) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. IET Intelligent Transport Systems, accept. 
+* Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y. (2024). Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning. Journal of Advanced Transportation, 2024(1), 3035753.
 
-* Yu, Y., Cui, Y., Zeng, J., He, C., Wang, D., 2022. Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. https://doi.org/10.1016/j.physa.2021.126750
+* Zeng, J., **Yu, Y.**, Chen, Y., Yang, D., Zhang, L., Wang, D. (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies, 146, 103957.
 
-* Cui, Y., Yu, Y., Cai, Z., Wang, D., 2022. Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. J. Urban Plann. Dev. 148, 04021062. https://doi.org/10.1061/(ASCE)UP.1943-5444.0000780
+* **Yu, Y.**, Cui, Y., Zeng, J., He, C., Wang, D. (2022). Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, 591, 126750.
 
-* Yu Y, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), accept.
+* Qi, H., **Yu, Y.**, Tang, Q., Hu, X. (2022). Intersection traffic deadlock formation and its probability: A petri net-based modeling approach. IET Intelligent Transport Systems, 16(10), 1342-1363.
 
-* Zeng, J., Wang, D., Zhang, G., Yu, Y., Cai, Z., 2021. Passenger-to-Car Assignment Optimization Model for High-Speed Railway with Risk of COVID-19 Transmission Consideration. Mathematical Problems in Engineering 2021, e7121010. https://doi.org/10.1155/2021/7121010
+* Cui, Y., **Yu, Y.**, Cai, Z., Wang, D. (2022). Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. Journal of Urban Planning and Development, 148(1), 04021062.
 
-* Cui, Y., Yu, Y., Wang, D., 2021. Impact of the Link Length on the Delay in Two-Way Signal Coordination. IEEE Access 9, 130823–130833. https://doi.org/10.1109/ACCESS.2021.3113695
+* **Yu Y**, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), accept.
 
-* Yu, Y., Chen, M., Qi, H., Wang, D., 2020. Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access 8, 32850–32861. https://doi.org/10.1109/ACCESS.2020.2970530
+* **Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y. (2024). Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense. In 2024 IEEE Intelligent Vehicles Symposium (IV), pp. 521-526.
+
+* **Yu, Y.**, Yao, S., Li, J., Wang, F.-Y., Lin, Y. (2023). SWDPM: A Social Welfare-Optimized Data Pricing Mechanism. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 2900-2906.
