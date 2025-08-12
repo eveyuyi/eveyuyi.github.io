@@ -24,6 +24,15 @@ Campus activities I attended during my bachelor and doctoral periods @ Zhejiang 
 * 2023.10, present in 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC).
 * 2021.03 , [AI UK](https://www.turing.ac.uk/ai-uk), an online event hosted by the Turing to showcase the very best of UK academic work in artificial intelligence (AI); bringing together leading thinkers, innovative businesses and specialist third sector bodies.
 
+
+### 🌍 International Exchange Programs
+| 📅 **Period** | 🏛️ **Institution** | 📚 **Focus** | 🎯 **Activities** |
+|:-------------|:-------------------|:-------------|:------------------|
+| 2019.08 | [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)<br>[Waseda University](https://www.waseda.jp/top/) | Transportation Engineering | Academic Seminar & Presentations |
+| 2018.08 | [University of Toronto](https://www.utoronto.ca)<br>[University of Ottawa](https://www.uottawa.ca/en) | Transportation Engineering | Academic Seminar & Presentations |
+| 2014.01-2014.02 | [York University](https://www.york.ac.uk) | Civil Engineering | Academic & Culture Lectures |
+
+
 ### Student activities
 
 * 2020.01-2021.01, Head of the doctoral advisory group

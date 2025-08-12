@@ -46,6 +46,8 @@ Journal Publications
 Conference Publications
 ======
 
+* Yu, X., **Yu, Y.(*)**, Liu, D., et al. (2025). EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models. In Findings of the Association for Computational Linguistics: ACL 2025. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-acl.754.
+
 * **Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y. (2024). Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense. In 2024 IEEE Intelligent Vehicles Symposium (IV), pp. 521-526.
 
 * Yu, J., **Yu, Y.**, Yao, S., Wang, D., Cai, P., Li, H., Li, L., Wang, F.-Y., Lin, Y. (2023). RoW-based parallel control for mixed traffic scenario: A case study on lane-changing. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 5397-5402.
@@ -59,6 +61,8 @@ Conference Publications
 * **Yu, Y.**, Yao, S., Li, J., Wang, F.-Y., Lin, Y. (2023). SWDPM: A Social Welfare-Optimized Data Pricing Mechanism. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 2900-2906.
 
 * Lv, X., **Yu, Y.**(co-first author), Xie, X., Wang, F.-Y., Lin, Y., Chen, Y. (2023). Optimize the Accessibility of Healthcare Facilities via ACP-Based Approach. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 4034-4039.
+
+(* means co-first author.)
 
 Patents
 ======

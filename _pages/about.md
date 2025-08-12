@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies at leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
+I am Yi Yu (Eve), a Young Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies in leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
 
-My research focuses on developing next-generation urban systems:
+My research focuses on:
 - **Responsible AI** development ensuring trustworthy and equitable smart city solutions
 - **Multimodal Large Language Models (MLLMs)** for real-world safety applications
 - **AI-driven optimization** of intelligent transportation systems
 - **Multi-agent systems** and reinforcement learning for traffic control
 
+<!-- ## Research Highlights
+- **20+ peer-reviewed publications** in top-tier journals and conferences
+- **Real-world applications:** Traffic evaluation systems deployed in multiple cities
+- **International & interdiscipline collaboration:** Joint research with Imperial College London and University of Toronto -->
 
  I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp). My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017.  
  
@@ -27,26 +31,26 @@ As a researcher, I am committed to developing AI technologies that not only adva
 Education
 =====
 
-| :-----| :----- | :----- |
-| 2017.09-2022.06 | PhD | [Zhejiang University](https://www.zju.edu.cn) | Transportation Engineering | GPA 92.2/100 Rank 3/53|
-| 2020.12-2021.05 | Joint PhD | [Imperial College London](https://www.imperial.ac.uk) | Transportation Engineering | Joint training PhD student <br> supported by [CSC](https://www.csc.edu.cn) |
-| 2013.09-2017.06 | B.S. | [Zhejiang University](https://www.zju.edu.cn) | Civil Engineering | GPA 3.72/4.0 <br> Postgraduate recommendation|
-| 2013.09-2017.06  | Minor | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0 Graduates|
-| 2019.08 | Exchange | [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), <br> [Waseda University](https://www.waseda.jp/top/) | Transportation Engineering | Academic Seminar & Presentations |
-| 2018.08  | Exchange | [University of Toronto](https://www.utoronto.ca), <br> [University of Ottawa](https://www.uottawa.ca/en) | Transportation Engineering | Academic Seminar & Presentations |
-| 2014.01-2014.02  | Exchange | [York University](https://www.york.ac.uk) | Civil Engineering | Academic & Culture Lectures |
+| 📅 **Period** | 🎓 **Degree** | 🏛️ **Institution** | 📚 **Major** | 🏆 **Achievement** |
+|:-------------|:-------------|:-------------------|:-------------|:-------------------|
+| 2017.09-2022.06 | **PhD** | [Zhejiang University](https://www.zju.edu.cn) | Transportation Engineering | GPA 92.2/100<br>**Rank 3/53** |
+| 2020.12-2021.05 | **Joint PhD** | [Imperial College London](https://www.imperial.ac.uk) | Transportation Engineering | Joint training PhD<br>Supported by [CSC](https://www.csc.edu.cn) |
+| 2013.09-2017.06 | **B.S.** | [Zhejiang University](https://www.zju.edu.cn) | Civil Engineering | GPA 3.72/4.0<br>**Postgraduate recommendation** |
+| 2013.09-2017.06 | **Minor** | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0<br>**Graduates** |
 
 
-Research Interests
+<!-- Research Interests
 ======
 * Responsible AI
-* Multimodal Large Lanugage Models
+* Multimodal Large Language Models
 * Intelligent Traffic System 
-* Traffic Flow Modeling  
+* Traffic Flow Modeling   -->
 
 
 Selected Publications
 ======
+* Yu, X., **Yu, Y.**, Liu, D., et al. (2025). EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models. In Findings of the Association for Computational Linguistics: ACL 2025. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-acl.754.
+
 * Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li, L., Wang, F.-Y. (2025). Building intelligence identification system via large language model watermarking: a survey and beyond. Artificial Intelligence Review, 58(8), 1-58.
 
 * Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y. (2024). Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning. Journal of Advanced Transportation, 2024(1), 3035753.
