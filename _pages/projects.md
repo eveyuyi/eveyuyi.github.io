@@ -10,11 +10,10 @@ author_profile: true
 
 ## Research Projects
 
-| Period | Title | Sponsor | Funding | Role |
+| Period | Title | Sponsor | Funding Amount | Role |
 | :-----| :----- | :----- | :----- |
 | 2018.09-2021.05 | [Hangzhou City Brain](https://hzcitybrain.hangzhou.gov.cn/#/) - [ITS in Xiaoshan District](http://www.xiaoshan.gov.cn/art/2019/6/5/art_1302903_34474561.html) <!-- [杭州城市大脑](https://kaimaoge.github.io/) (杭州城市大脑-萧山区交通小脑-开发 '城市交通态势分析与预测系统' ） --> | Hangzhou Government | ￥4,500,000 | Main member in charge of Traffic State Identification & Safety Status Model |
-| 2022.01-2026.12 | Urban traffic intrinsic acquisition and demand structure optimization
-control based on big data <!-- 基于大数据的城市交通本征获取与需求结构优化控制 --> | National Natural Science Foundation of China (No.Unknown) | ￥3,090,000 | Main member |
+| 2022.01-2026.12 | Urban traffic intrinsic acquisition and demand structure optimization control based on big data <!-- 基于大数据的城市交通本征获取与需求结构优化控制 --> | National Natural Science Foundation of China (No.Unknown) | ￥3,090,000 | Main member |
 | 2021.01-2024.12 | Urban Traffic Intrinsic Characteristics Acquisition Based on Multi-source Heterogeneous Big Data <!-- 基于多源异构大数据的城市交通本征获取 --> | National Natural Science Foundation of China (No.52072340) | ￥648,000 | Main member |
 | 2018.01-2021.12 | Urban Traffic Structure Control Based on System Dynamics <!-- 基于系统动力学的城市交通结构控制 --> | National Natural Science Foundation of China (No.61773338) | ￥640,000 | Main member |
 | 2018.06-2018.08 | Estimation of Road Network Traffic Status in Zhuzhou based on Multi-source Heterogeneous Big Data <!-- 基于多源混合大数据的贵阳市路网交通运行状况综合评估 --> | Zhuzhou Government | / | Main member|
@@ -31,7 +30,7 @@ control based on big data <!-- 基于大数据的城市交通本征获取与需�
 
 ## Visiting Projects
 
-| Period | Title | University | Sponsor | Role |
+| Period | Project Name | University | Sponsor | Role |
 | :-----| :----- | :----- |
 | 2020.12--2022.05 | Joint Traning PhD Program | Imperial College London | [Chinese Government Scholarship council](https://www.csc.edu.cn) | Research collaborations, Academic seminars, Presentations  |
 | 2019.08 | Go Global | University of Tokyo, Waseda University | Zhejiang University | Academic Seminar & Presentation|
@@ -40,7 +39,7 @@ control based on big data <!-- 基于大数据的城市交通本征获取与需�
  
 
 
-### Scientific Exploration Projects
+### Undergraduate Research Projects
 
 | Period | Title | Sponsor | Role |
 | :----- | :----- |
