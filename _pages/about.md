@@ -33,7 +33,7 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 * *2025.01*: Our survey paper on [LLM watermarking for intelligence identification](https://doi.org/10.1007/s10462-025-11222-w) is published in Artificial Intelligence Review!
 * *2024.06*: 🎉 Our work on [adaptive traffic signal control via MARL](https://onlinelibrary.wiley.com/doi/abs/10.1155/2024/3035753) is published in Journal of Advanced Transportation!
 
-📝 Selected Publications
+📝 Selected Publications (recent 2 years)
 ======
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/iceberg.png' alt="sym" width="100%"></div></div>
@@ -78,26 +78,19 @@ Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 
 
 
-- [Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents](http://arxiv.org/abs/2509.25302), Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao, *AAAI 2025* (submitted). [🛡️AI Security, LLM Agent]
+- [Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond](https://doi.org/10.1007/s10462-025-11222-w), Xuhong Wang, Haoyu Jiang, **Yi Yu**, Jingru Yu, Yilun Lin, Pengyuan Yi, Yitong Wang, Yu Qiao, Li Li, Fei-Yue Wang, *Artificial Intelligence Review*, 2025, 58(8), 249. [🛡️AI Safety, LLM Watermarking]
 
-- [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753), Xiangmin Yang, **Yi Yu**, Yuxiang Feng, Washington Yotto Ochieng, *Journal of Advanced Transportation*, 2024 (1): 3035753. [🏙️ Smart Cities, MARL]
+- [Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents](http://arxiv.org/abs/2509.25302), Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao, Submitted to *ICLR 2026*. [🛡️AI Safety, LLM Agent]
 
-[Trajectory-as-a-Sequence: A novel travel mode identification framework](https://www.sciencedirect.com/science/article/pii/S0968090X22003333), Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang, Transportation Research Part C: Emerging Technologies, 2023, 146, 103957. [🏙️ Smart Cities, Deep Learning]
+- [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report](https://doi.org/10.48550/arXiv.2507.16534), Shanghai AI Lab, Xiaoyang Chen, Yunhao Chen, et al. (including **Yi Yu**), *arXiv preprint*, 2025. [🛡️AI Safety, Risk Management]
 
-- [SWDPM: A Social Welfare-Optimized Data Pricing Mechanism](https://ieeexplore.ieee.org/document/10394125), **Yi Yu**, Shengyue Yao, Juanjuan Li, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906, 2023 [🏙️ Smart Cities, Optimization]
+- [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law](https://doi.org/10.48550/arXiv.2507.18576), Shanghai AI Lab, Yicheng Bao, Guanxu Chen, et al. (including **Yi Yu**), *arXiv preprint*, 2025. [🛡️AI Safety, LLM Agent]
 
-- [Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System](https://ieeexplore.ieee.org/document/10394360), **Yi Yu**, Shengyue Yao, Kexin Wang, Yan Chen, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 3186-3191, 2023 [🏙️ Smart Cities, Optimization]
+- [Navigating the Data Trading Crossroads: An Interdisciplinary Survey](https://doi.org/10.48550/arXiv.2407.11466), **Yi Yu**, Jingru Yu, Xuhong Wang, et al., Submitted to *IEEE TSMC*, 2024. [🏙️ Smart Cities, Data Trading]
 
-<!-- - [Optimize the accessibility of healthcare facilities via ACP-based approach](https://ieeexplore.ieee.org/document/10394049), Xinyi Lv, **Yi Yu***, Xinzhao Xie, Fei-Yue Wang, Yilun Lin, Yan Chen, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2023 [🏙️ Smart Cities, Optimization] -->
+- [The Shadow of Fraud: The Emerging Danger of AI-Powered Social Engineering and Its Possible Cure](https://doi.org/10.48550/arXiv.2407.15912), Jingru Yu, **Yi Yu**, Xuhong Wang, et al., Submitted to *IEEE TSMC*, 2024. [🛡️AI Safety, Social Engineering]
 
-- [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/abstract/document/10421950), Jingru Yu, **Yi Yu**, Shengyue Yao, Xuhong Wang, Fei-Yue Wang, Yilun Lin, *2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)*, pp. 5397-5402, 2023 [🏙️ Smart Cities, Optimization]
-
-
-- [Identifying traffic clusters in urban networks based on graph theory using license plate recognition data](https://www.sciencedirect.com/science/article/pii/S037843712200044X), **Yi Yu**, Yanlei Cui, Jiaqi Zeng, Chunguang He, Dianhai Wang, *Physica A: Statistical Mechanics and its Applications*, 591, 126750, 2022 [🏙️ Smart Cities, Machine Learning]
-
-<!-- - [Intersection traffic deadlock formation and its probability: A petri net-based modeling approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12211), Haichao Qi, **Yi Yu**, Qianwen Tang, Xinyi Hu, *IET Intelligent Transport Systems*, 16(10), 1342-1363, 2022 [🏙️ Smart Cities, Petri Net] -->
-
-- [Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach](https://ascelibrary.org/doi/10.1061/%28ASCE%29UP.1943-5444.0000775), Yanlei Cui, **Yi Yu**, Zhengyi Cai, Dianhai Wang, *Journal of Urban Planning and Development*, 148(1), 04021062, 2022 [🏙️ Smart Cities, Optimization]
+- [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753), Xiangmin Yang, **Yi Yu**, Yuxiang Feng, Washington Yotto Ochieng, *Journal of Advanced Transportation*, 2024(1), 3035753. [🏙️ Smart Cities, MARL]
 
 
 
