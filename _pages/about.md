@@ -33,6 +33,7 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 * *2024.06*: 🎉 Our work on [adaptive traffic signal control via MARL](https://onlinelibrary.wiley.com/doi/abs/10.1155/2024/3035753) is published in Journal of Advanced Transportation!
 
 📝 Selected Publications
+======
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/iceberg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,7 +115,7 @@ Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang
 - **Real-world impact & practical value:** Research findings successfully implemented in urban traffic systems with measurable improvements in city-scale applications -->
 
 
-Research Philosophy
+👾 Research Philosophy
 ======
 
 > *"It is better to light a candle than to curse the darkness."*
