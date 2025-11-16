@@ -43,13 +43,17 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 📝 Selected Publications
 ======
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/iceberg2.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models](https://aclanthology.org/2025.findings-acl.754/)
 
 Yu, X., **Yu, Y.**, Liu, D., et al.
 
+*In Findings of the Association for Computational Linguistics: ACL 2025*
+
+- Proposes a comprehensive benchmark for evaluating LLM-generated text detection in real-world evolving scenarios
+- Addresses the critical challenge of detecting AI-generated content across different LLM versions and generations
 </div>
 </div>
 
