@@ -34,6 +34,13 @@ Campus activities I attended during my bachelor and doctoral periods @ Zhejiang 
 | 2014.01-2014.02 | [York University](https://www.york.ac.uk) | Civil Engineering | Academic & Culture Lectures |
 
 
+<!-- | 📅 **Period** | 🎓 **Degree** | 🏛️ **Institution** | 📚 **Major** | 🏆 **Achievement** |
+|:-------------|:-------------|:-------------------|:-------------|:-------------------|
+| 2017.09-2022.06 | **PhD** | [Zhejiang University](https://www.zju.edu.cn) | Transportation Engineering | GPA 92.2/100<br>**Rank 3/53** |
+| 2020.12-2021.05 | **Joint PhD** | [Imperial College London](https://www.imperial.ac.uk) | Transportation Engineering | Joint training PhD<br>Supported by [CSC](https://www.csc.edu.cn) |
+| 2013.09-2017.06 | **B.S.** | [Zhejiang University](https://www.zju.edu.cn) | Civil Engineering | GPA 3.72/4.0<br>**Postgraduate recommendation** |
+| 2013.09-2017.06 | **Minor** | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0<br>**Graduates** | -->
+
 ### Student activities
 
 * 2020.01-2021.01, Head of the doctoral advisory group

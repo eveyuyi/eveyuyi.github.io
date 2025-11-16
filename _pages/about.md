@@ -22,13 +22,6 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 * *2013.09 - 2017.06*, B.S., Zhejiang University, Hangzhou, China. (Civil Engineering, GPA 3.72/4.0)
 * *2013.09 - 2017.06*, Minor, Zhejiang University, Hangzhou, China. (Law, GPA 3.78/4.0)
 
-<!-- | 📅 **Period** | 🎓 **Degree** | 🏛️ **Institution** | 📚 **Major** | 🏆 **Achievement** |
-|:-------------|:-------------|:-------------------|:-------------|:-------------------|
-| 2017.09-2022.06 | **PhD** | [Zhejiang University](https://www.zju.edu.cn) | Transportation Engineering | GPA 92.2/100<br>**Rank 3/53** |
-| 2020.12-2021.05 | **Joint PhD** | [Imperial College London](https://www.imperial.ac.uk) | Transportation Engineering | Joint training PhD<br>Supported by [CSC](https://www.csc.edu.cn) |
-| 2013.09-2017.06 | **B.S.** | [Zhejiang University](https://www.zju.edu.cn) | Civil Engineering | GPA 3.72/4.0<br>**Postgraduate recommendation** |
-| 2013.09-2017.06 | **Minor** | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0<br>**Graduates** | -->
-
 
 🔥 News
 ======
@@ -65,17 +58,6 @@ Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/AI45Lab/X-Boundary)
 </div>
 </div>
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review</div><img src='images/watermark.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Building intelligence identification system via large language model watermarking: a survey and beyond](https://link.springer.com/article/10.1007/s10462-025-11222-w)
-
-Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li, L., Wang, F.-Y.
-
-</div>
-</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2024</div><img src='images/data_on_the_move.png' alt="sym" width="100%"></div></div>
