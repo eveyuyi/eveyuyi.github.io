@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yi Yu (Eve), a Young Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies in leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
+I am currently a Young Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies in leveraging cutting-edge AI technologies to ensure the safe, efficient development of smart cities via solving complex mobility challenges.
 
 My research focuses on:
 - **Responsible AI** development ensuring trustworthy and equitable smart city solutions
