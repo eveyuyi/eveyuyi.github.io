@@ -10,15 +10,9 @@ redirect_from:
 
 I am currently a Young Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies in leveraging cutting-edge AI technologies to ensure the safe, efficient development of smart cities via solving complex mobility challenges.
 
-I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp), focusing on comprehensive urban traffic state evaluation systems that have been successfully applied in Hangzhou City Brain projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017.
+I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp), focusing on comprehensive urban traffic state evaluation systems that have been successfully applied in Hangzhou City Brain projects. During my PhD, I worked at Imperial College London as a visiting scholar, collaborating with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. Prior to that, I obtained my bachelor's degree in Civil Engineering with a minor in Law from [Zhejiang University](https://www.zju.edu.cn).
 
-My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored 25+ peer-reviewed publications in top-tier journals and conferences, and actively contributed to national and municipal research projects. I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serving as a reviewer for prestigious journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
-
-## Research Philosophy
-
-As a researcher, I am committed to developing AI technologies that not only advance the field of Intelligent Transportation Systems but also contribute positively to society. I strive to create solutions that enhance urban mobility, promote sustainability, and ensure equitable access to the benefits of smart city innovations. 
-
-> *"It is better to light a candle than to curse the darkness."*
+I have authored 25+ papers at top-tier AI and interdisciplinary venues and journals including ACL, EMNLP, IEEE ITSC, and Transportation Research Part C. My interdisciplinary background allows me to bridge technological innovation with trustworthy frameworks and societal considerations, fostering solutions with real-world impact in urban systems and beyond.
 
 📖 Educations
 =====
@@ -36,16 +30,14 @@ As a researcher, I am committed to developing AI technologies that not only adva
 | 2013.09-2017.06 | **Minor** | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0<br>**Graduates** | -->
 
 
-
 🔥 News
 ======
 
 * 2025.01: 🎉 EvoBench is accepted at ACL 2025 Findings!
 * 2025.01: Our survey on LLM watermarking for intelligence identification is published in Artificial Intelligence Review!
-* 2024.06: Our work on adaptive traffic signal control via MARL is published in Journal of Advanced Transportation!
-* 2024.06: Presented our AI agent-powered data trading platform at IEEE IV 2024!
-
-
+* 2024.06: 🎉 Our work on adaptive traffic signal control via MARL is published in Journal of Advanced Transportation!
+* 2024.06: 🎉 Presented our AI agent-powered data trading platform at IEEE IV 2024!
+.
 
 Selected Publications
 ======
@@ -82,4 +74,19 @@ My research focuses on:
 - **Interdisciplinary & International research expertise:** Bridging AI, Transportation Engineering, and Legal frameworks for comprehensive smart city solutions. Joint research partnerships with Imperial College London.
 - **Real-world impact & practical value:** Research findings successfully implemented in urban traffic systems with measurable improvements in city-scale applications
 
-## Academic Background
+
+
+## Research Philosophy
+
+> *"It is better to light a candle than to curse the darkness."*
+
+I believe that the true value of AI research lies not merely in technical advancement, but in creating meaningful positive impact on society. My commitment is to develop AI systems that are not only powerful, but also responsible, equitable, and beneficial to humanity.
+
+My interdisciplinary background enables me to approach challenges from multiple perspectives. I strive to create solutions that thoughtfully balance technological innovation with ethical considerations and societal implications. I am passionate about contributing to the academic community and nurturing the next generation of researchers, believing that through collaboration and knowledge sharing, we can collectively build AI technologies that truly serve humanity.
+
+
+🛠 Services
+======
+
+Journal Reviewer: IEEE Transactions on Systems, Man, and Cybernetics, Transportation Research Part C, Journal of Advanced Transportation, IET Intelligent Transport Systems
+Conference Reviewer: AAAI, ACL, EMNLP, IEEE IV, IEEE ITSC
