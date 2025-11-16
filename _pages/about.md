@@ -47,7 +47,7 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 
 [EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models](https://aclanthology.org/2025.findings-acl.754/)
 
-Xiao Yu, **Yi Yu***, Dongrui Liu, et al.
+Xiao Yu, **Yi Yu***, Dongrui Liu, Jing Shao.
 
 </div>
 </div>
@@ -85,7 +85,7 @@ Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C</div><img src='images/TaaS.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C</div><img src='images/TaaS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trajectory-as-a-Sequence: A novel travel mode identification framework](https://www.sciencedirect.com/science/article/pii/S0968090X22003333)
@@ -93,7 +93,7 @@ Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li
 Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang
 
 </div>
-</div>
+</div> -->
 
 - [Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents](http://arxiv.org/abs/2509.25302), Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao, *AAAI 2025* (submitted). [🛡️AI Security, LLM Agent]
 
@@ -141,6 +141,6 @@ My interdisciplinary background enables me to approach challenges from multiple 
 🛠 Services
 ======
 
-Journal Reviewer: IEEE Transactions on Systems, Man, and Cybernetics, Transportation Research Part C, Journal of Advanced Transportation, IET Intelligent Transport Systems
+* Journal Reviewer: IEEE Transactions on Systems, Man, and Cybernetics, Transportation Research Part C, Journal of Advanced Transportation, IET Intelligent Transport Systems
 
-Conference Reviewer: AAAI, ACL, EMNLP, IEEE IV, IEEE ITSC
+* Conference Reviewer: AAAI, ACL, EMNLP, IEEE IV, IEEE ITSC

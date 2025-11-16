@@ -46,7 +46,10 @@ Journal Publications
 Conference Publications
 ======
 
-* Yu, X., **Yu, Y.(*)**, Liu, D., et al. (2025). EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models. In Findings of the Association for Computational Linguistics: ACL 2025. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-acl.754.
+* Lu, X., Dongrui L., **Yi Y.**, Luxin X., and Jing S.. 2025. “X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Jailbreak Attacks without Compromising Usability.” In Findings of the Association for Computational Linguistics: EMNLP 2025, edited by Christos Christodoulopoulos, Tanmoy Chakraborty, Carolyn Rose, and Violet Peng. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-emnlp.282.
+
+
+* Yu, X., **Yu, Y.***, Liu, D., et al. (2025). EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models. In Findings of the Association for Computational Linguistics: ACL 2025. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-acl.754.
 
 * **Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y. (2024). Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense. In 2024 IEEE Intelligent Vehicles Symposium (IV), pp. 521-526.
 
