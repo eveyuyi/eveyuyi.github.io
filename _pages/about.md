@@ -18,9 +18,9 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 =====
 
 * *2017.09 - 2022.06*, PhD, Zhejiang University, Hangzhou, China. (GPA 92.2/100, Rank 3/53)
-* 2020.12 - 2021.05, Joint PhD, Imperial College London, London, UK. (Supported by CSC)
-* 2013.09 - 2017.06, B.S., Zhejiang University, Hangzhou, China. (Civil Engineering, GPA 3.72/4.0)
-* 2013.09 - 2017.06, Minor, Zhejiang University, Hangzhou, China. (Law, GPA 3.78/4.0)
+* *2020.12 - 2021.05*, Joint PhD, Imperial College London, London, UK. (Supported by CSC)
+* *2013.09 - 2017.06*, B.S., Zhejiang University, Hangzhou, China. (Civil Engineering, GPA 3.72/4.0)
+* *2013.09 - 2017.06*, Minor, Zhejiang University, Hangzhou, China. (Law, GPA 3.78/4.0)
 
 <!-- | 📅 **Period** | 🎓 **Degree** | 🏛️ **Institution** | 📚 **Major** | 🏆 **Achievement** |
 |:-------------|:-------------|:-------------------|:-------------|:-------------------|
@@ -36,7 +36,7 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 * 2025.07: Our work [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report](10.48550/arXiv.2507.16534) is released!
 * 2025.08: 🎉 [X-Boundary](https://aclanthology.org/2025.findings-emnlp.282/) is accepted at EMNLP 2025!
 * 2025.01: 🎉 [EvoBench](https://aclanthology.org/2025.findings-acl.754/) is accepted at ACL 2025!
-* 2025.01: Our survey on [LLM watermarking for intelligence identification](https://doi.org/10.1007/s10462-025-11222-w) is published in Artificial Intelligence Review!
+* 2025.01: Our survey paper on [LLM watermarking for intelligence identification](https://doi.org/10.1007/s10462-025-11222-w) is published in Artificial Intelligence Review!
 * 2024.06: 🎉 Our work on [adaptive traffic signal control via MARL](https://onlinelibrary.wiley.com/doi/abs/10.1155/2024/3035753) is published in Journal of Advanced Transportation!
 
 
@@ -65,7 +65,7 @@ Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Review</div><img src='images/watermark.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review</div><img src='images/watermark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building intelligence identification system via large language model watermarking: a survey and beyond](https://link.springer.com/article/10.1007/s10462-025-11222-w)
@@ -73,7 +73,7 @@ Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li, L., Wang, F.-Y.
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2024</div><img src='/images/data_on_the_move.png' alt="sym" width="100%"></div></div>
@@ -86,18 +86,21 @@ Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAT 2024</div><img src='images/MARL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C</div><img src='images/TaaS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753)
+[Trajectory-as-a-Sequence: A novel travel mode identification framework](https://www.sciencedirect.com/science/article/pii/S0968090X22003333)
 
-Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y.
+Zeng, J., **Yu, Y.**, Chen, Y., Yang, D., Zhang, L., Wang, D.
 
 </div>
 </div>
 
 
-- [Trajectory-as-a-Sequence: A novel travel mode identification framework](https://www.sciencedirect.com/science/article/pii/S0968090X22003333), Zeng, J., **Yu, Y.**, Chen, Y., Yang, D., Zhang, L., Wang, D., *Transportation Research Part C: Emerging Technologies*, 146, 103957, 2023
+- [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753), Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y., Journal of Advanced Transportation 2024 (1): 3035753.
+
+- [SWDPM: A Social Welfare-Optimized Data Pricing Mechanism](https://ieeexplore.ieee.org/document/10394125), **Yu, Y.**, Yao, S., Li, J., Wang, F.-Y., Lin, Y., *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906, 2023
+
 
 - [Identifying traffic clusters in urban networks based on graph theory using license plate recognition data](https://www.sciencedirect.com/science/article/pii/S037843712200044X), **Yu, Y.**, Cui, Y., Zeng, J., He, C., Wang, D., *Physica A: Statistical Mechanics and its Applications*, 591, 126750, 2022
 
@@ -105,7 +108,6 @@ Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y.
 
 - [Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach](https://ascelibrary.org/doi/10.1061/%28ASCE%29UP.1943-5444.0000775), Cui, Y., **Yu, Y.**, Cai, Z., Wang, D., *Journal of Urban Planning and Development*, 148(1), 04021062, 2022
 
-- [SWDPM: A Social Welfare-Optimized Data Pricing Mechanism](https://ieeexplore.ieee.org/document/10394125), **Yu, Y.**, Yao, S., Li, J., Wang, F.-Y., Lin, Y., *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906, 2023
 
 
 
