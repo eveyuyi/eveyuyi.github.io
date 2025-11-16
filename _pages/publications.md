@@ -14,58 +14,69 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can find the most recent pubulications on [Google Scholar](https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl) profile.
-
-Journal Publications
-======
-
-* Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li, L., Wang, F.-Y. (2025). Building intelligence identification system via large language model watermarking: a survey and beyond. Artificial Intelligence Review, 58(8), 1-58.
-
-* Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y. (2024). Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning. Journal of Advanced Transportation, 2024(1), 3035753.
-
-* **Yu, Y.**, Yu, J., Wang, X., Li, J., Lin, Y., He, C., Yang, Y., Qiao, Y., Li, L., Wang, F.-Y. (2024). Navigating the Data Trading Crossroads: An Interdisciplinary Survey. arXiv preprint arXiv:2407.11466.
-
-* **Yu, J.**, **Yu, Y.**, Wang, X., Lin, Y., Yang, M., Qiao, Y., Wang, F.-Y. (2024). The Shadow of Fraud: The Emerging Danger of AI-powered Social Engineering and its Possible Cure. arXiv preprint arXiv:2407.15912.
-
-* Miao, Q.-H., Wang, X.-X., Yang, J., Zhao, Y., Wang, Y.-T., Chen, Y.-Y., Tian, Y.-L., **Yu, Y.**, Lin, Y.-L., Yan, R., Ma, J.-Q., Na, X.-X., Wang, F.-Y. (2024). From foundation intelligence to general intelligence: The state-of-art and perspectives of GenAI and AGI based on foundation models. Acta Automatica Sinica, 50(4), 674-687.
-
-* He, C., Wang, D., **Yu, Y.**, Cai, Z. (2023). A hybrid deep learning model for link dynamic vehicle count forecasting with Bayesian optimization. Journal of Advanced Transportation, 2023(1), 5070504.
-
-* Zeng, J., **Yu, Y.**, Chen, Y., Yang, D., Zhang, L., Wang, D. (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies, 146, 103957.
-
-* Qi, H., **Yu, Y.**, Tang, Q., Hu, X. (2022). Intersection traffic deadlock formation and its probability: A petri net-based modeling approach. IET Intelligent Transport Systems, 16(10), 1342-1363.
-
-* **Yu, Y.**, Cui, Y., Zeng, J., He, C., Wang, D. (2022). Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, 591, 126750.
-
-* Cui, Y., **Yu, Y.**, Cai, Z., Wang, D. (2022). Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. Journal of Urban Planning and Development, 148(1), 04021062.
-
-* Cui, Y., **Yu, Y.**, Wang, D. (2021). Impact of the link length on the delay in two-way signal coordination. IEEE Access, 9, 130823-130833.
-
-* **Yu, Y.**, Chen, M., Qi, H., Wang, D. (2020). Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, 8, 32850-32861.
+You can find the most recent publications on [Google Scholar](https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl) profile.
 
 Conference Publications
 ======
 
-* Lu, X., Dongrui L., **Yi Y.**, Luxin X., and Jing S.. 2025. “X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Jailbreak Attacks without Compromising Usability.” In Findings of the Association for Computational Linguistics: EMNLP 2025, edited by Christos Christodoulopoulos, Tanmoy Chakraborty, Carolyn Rose, and Violet Peng. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-emnlp.282.
+* Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao. (2025). Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents. * Submitted to ICLR 2026*. https://doi.org/10.48550/arXiv.2509.25302.
 
 
-* Yu, X., **Yu, Y.***, Liu, D., et al. (2025). EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models. In Findings of the Association for Computational Linguistics: ACL 2025. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-acl.754.
+* Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao. (2025). X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Jailbreak Attacks without Compromising Usability. In *EMNLP 2025*. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-emnlp.282.
 
-* **Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y. (2024). Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense. In 2024 IEEE Intelligent Vehicles Symposium (IV), pp. 521-526.
+* Xiao Yu, **Yi Yu***, Dongrui Liu, Jing Shao. (2025). EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models. In *ACL 2025*. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-acl.754.
 
-* Yu, J., **Yu, Y.**, Yao, S., Wang, D., Cai, P., Li, H., Li, L., Wang, F.-Y., Lin, Y. (2023). RoW-based parallel control for mixed traffic scenario: A case study on lane-changing. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 5397-5402.
+* **Yi Yu**, Shengyue Yao, Tianchen Zhou, Yue Fu, Jingru Yu, Dianhai Wang, Xuhong Wang, Yan Chen, Yilun Lin. (2024). Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense. In *2024 IEEE Intelligent Vehicles Symposium (IV)*, pp. 521-526. https://doi.org/10.1109/IV55156.2024.10588800.
 
-* Xu, J., Yao, S., **Yu, Y.**, Wang, F.-Y., Lin, Y. (2023). DeMaaS: Efficient service distribution for MaaS via decentralized collaboration and optimization. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 5391-5396.
+* Jingru Yu, **Yi Yu**, Shengyue Yao, Xuhong Wang, Fei-Yue Wang, Yilun Lin. (2023). RoW-Based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing. In *2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)*, pp. 5397-5402. https://doi.org/10.1109/ITSC57777.2023.10421950.
 
-* Yao, S., Yu, J., **Yu, Y.**, Xu, J., Dai, X., Li, H., Wang, F.-Y., Lin, Y. (2023). Towards integrated traffic control with operating decentralized autonomous organization. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 6126-6131.
+* Jia Xu, Shengyue Yao, **Yi Yu**, Fei-Yue Wang, Yilun Lin. (2023). DeMaaS: Efficient Service Distribution for MaaS via Decentralized Collaboration and Optimization. In *2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)*, pp. 5391-5396. https://doi.org/10.1109/ITSC57777.2023.10422514.
 
-* **Yu, Y.**, Yao, S., Wang, K., Chen, Y., Wang, F.-Y., Lin, Y. (2023). Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 3186-3191.
+* Shengyue Yao, Jingru Yu, **Yi Yu**, Jia Xu, Xiaoya Dai, Hui Li, Fei-Yue Wang, Yilun Lin. (2023). Towards Integrated Traffic Control with Operating Decentralized Autonomous Organization. In *2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)*, pp. 6126-6131. https://doi.org/10.1109/ITSC57777.2023.10422063.
 
-* **Yu, Y.**, Yao, S., Li, J., Wang, F.-Y., Lin, Y. (2023). SWDPM: A Social Welfare-Optimized Data Pricing Mechanism. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 2900-2906.
+* **Yi Yu**, Shengyue Yao, Kexin Wang, Yan Chen, Fei-Yue Wang, Yilun Lin. (2023). Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System. In *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 3186-3191. https://doi.org/10.1109/SMC53992.2023.10394360.
 
-* Lv, X., **Yu, Y.**(co-first author), Xie, X., Wang, F.-Y., Lin, Y., Chen, Y. (2023). Optimize the Accessibility of Healthcare Facilities via ACP-Based Approach. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 4034-4039.
+* **Yi Yu**, Shengyue Yao, Juanjuan Li, Fei-Yue Wang, Yilun Lin. (2023). SWDPM: A Social Welfare-Optimized Data Pricing Mechanism. In *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906. https://doi.org/10.1109/SMC53992.2023.10394049.
 
-(* means co-first author.)
+* Xinyi Lv, **Yi Yu***, Xinzhao Xie, Fei-Yue Wang, Yilun Lin, Yan Chen. (2023). Optimize the Accessibility of Healthcare Facilities via ACP-Based Approach. In *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2023.
+
+Journal Publications
+======
+
+* Xuhong Wang, Haoyu Jiang, **Yi Yu**, Jingru Yu, Yilun Lin, Pengyuan Yi, Yitong Wang, Yu Qiao, Li Li, Fei-Yue Wang. (2025). Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond. *Artificial Intelligence Review*, 58(8), 249. https://doi.org/10.1007/s10462-025-11222-w.
+
+* **Yi Yu**, Jingru Yu, Xuhong Wang, et al. (2024). Navigating the Data Trading Crossroads: An Interdisciplinary Survey. Submitted to *IEEE TSMC*. https://doi.org/10.48550/arXiv.2407.11466.
+
+* Jingru Yu, **Yi Yu**, Xuhong Wang, et al. (2024). The Shadow of Fraud: The Emerging Danger of AI-Powered Social Engineering and Its Possible Cure. Submitted to *IEEE TSMC*. https://doi.org/10.48550/arXiv.2407.15912.
+
+* Xiangmin Yang, **Yi Yu**, Yuxiang Feng, Washington Yotto Ochieng. (2024). Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning. *Journal of Advanced Transportation*, 2024(1), 3035753. https://doi.org/10.1155/2024/3035753.
+
+* Chunguang He, Dianhai Wang, **Yi Yu**, Zhengyi Cai. (2023). A Hybrid Deep Learning Model for Link Dynamic Vehicle Count Forecasting with Bayesian Optimization. *Journal of Advanced Transportation*, 2023, e5070504. https://doi.org/10.1155/2023/5070504.
+
+* Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang. (2023). Trajectory-as-a-Sequence: A Novel Travel Mode Identification Framework. *Transportation Research Part C: Emerging Technologies*, 146, 103957. https://doi.org/10.1016/j.trc.2022.103957.
+
+* Haichao Qi, **Yi Yu**, Qianwen Tang, Xinyi Hu. (2022). Intersection Traffic Deadlock Formation and Its Probability: A Petri Net-Based Modeling Approach. *IET Intelligent Transport Systems*, 16(10), 1342-1363. https://doi.org/10.1049/itr2.12211.
+
+* **Yi Yu**, Yanlei Cui, Jiaqi Zeng, Chunguang He, Dianhai Wang. (2022). Identifying Traffic Clusters in Urban Networks Based on Graph Theory Using License Plate Recognition Data. *Physica A: Statistical Mechanics and its Applications*, 591, 126750. https://doi.org/10.1016/j.physa.2021.126750.
+
+* Yanlei Cui, **Yi Yu**, Zhengyi Cai, Dianhai Wang. (2022). Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. *Journal of Urban Planning and Development*, 148(1), 04021062. https://doi.org/10.1061/(ASCE)UP.1943-5444.0000780.
+
+* Yanlei Cui, **Yi Yu**, Dianhai Wang. (2021). Impact of the Link Length on the Delay in Two-Way Signal Coordination. *IEEE Access*, 9, 130823-130833. https://doi.org/10.1109/ACCESS.2021.3113695.
+
+* Jiaqi Zeng, Dianhai Wang, Guozheng Zhang, **Yi Yu**, Zhengyi Cai. (2021). Passenger-to-Car Assignment Optimization Model for High-Speed Railway with Risk of COVID-19 Transmission Consideration. *Mathematical Problems in Engineering*, 2021, e7121010. https://doi.org/10.1155/2021/7121010.
+
+* **Yi Yu**, Ming Chen, Haichao Qi, Dianhai Wang. (2020). Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. *IEEE Access*, 8, 32850-32861. https://doi.org/10.1109/ACCESS.2020.2973739.
+
+Preprints
+======
+
+
+* Shanghai AI Lab, Xiaoyang Chen, Yunhao Chen, et al. (including **Yi Yu**). (2025). Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report. *arXiv preprint arXiv:2507.16534*. https://doi.org/10.48550/arXiv.2507.16534.
+
+* Shanghai AI Lab, Yicheng Bao, Guanxu Chen, et al. (including **Yi Yu**). (2025). SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law. *arXiv preprint arXiv:2507.18576*. https://doi.org/10.48550/arXiv.2507.18576.
+
+
+(* means co-first author or equal contribution)
 
 Patents
 ======

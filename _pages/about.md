@@ -14,8 +14,9 @@ I received my PhD from Zhejiang University, where I worked under the supervision
 
 I have authored 25+ papers at top-tier AI and interdisciplinary venues and journals including ACL, EMNLP, IEEE ITSC, and Transportation Research Part C. My interdisciplinary background allows me to bridge technological innovation with trustworthy frameworks and societal considerations, fostering solutions with real-world impact in urban systems and beyond.
 
-📖 Educations
-=====
+
+
+## 📖 Educations
 
 * *2017.09 - 2022.06*, PhD, Zhejiang University, Hangzhou, China. (GPA 92.2/100, Rank 3/53)
 * *2020.12 - 2021.05*, Joint PhD, Imperial College London, London, UK. (Supported by CSC)
@@ -42,6 +43,8 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 
 Xiao Yu, **Yi Yu***, Dongrui Liu, Jing Shao.
 
+[🛡️AI Security, AIGC Detection]
+
 
 [**Project**](https://github.com/happy-Moer/EvoBench/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
@@ -54,6 +57,7 @@ Xiao Yu, **Yi Yu***, Dongrui Liu, Jing Shao.
 [X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Jailbreak Attacks without Compromising Usability](https://aclanthology.org/2025.findings-emnlp.282/)
 
 Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
+[🛡️LLM Safety, Representation Editing]
 
 [**Project**](https://github.com/AI45Lab/X-Boundary) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/AI45Lab/X-Boundary)
@@ -67,37 +71,31 @@ Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 [Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense](https://ieeexplore.ieee.org/document/10588563)
 
 **Yi Yu**, Shengyue Yao, Tianchen Zhou, Yue Fu, Jingru Yu, Dianhai Wang, Xuhong Wang, Yan Chen, Yilun Lin
+[🏙️ Smart Cities, LLM Application]
 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C</div><img src='images/TaaS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Trajectory-as-a-Sequence: A novel travel mode identification framework](https://www.sciencedirect.com/science/article/pii/S0968090X22003333)
-
-Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang
-
-</div>
-</div> -->
 
 - [Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents](http://arxiv.org/abs/2509.25302), Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao, *AAAI 2025* (submitted). [🛡️AI Security, LLM Agent]
 
-
 - [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753), Xiangmin Yang, **Yi Yu**, Yuxiang Feng, Washington Yotto Ochieng, *Journal of Advanced Transportation*, 2024 (1): 3035753. [🏙️ Smart Cities, MARL]
+
+[Trajectory-as-a-Sequence: A novel travel mode identification framework](https://www.sciencedirect.com/science/article/pii/S0968090X22003333), Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang, Transportation Research Part C: Emerging Technologies, 2023, 146, 103957. [🏙️ Smart Cities, Deep Learning]
 
 - [SWDPM: A Social Welfare-Optimized Data Pricing Mechanism](https://ieeexplore.ieee.org/document/10394125), **Yi Yu**, Shengyue Yao, Juanjuan Li, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906, 2023 [🏙️ Smart Cities, Optimization]
 
 - [Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System](https://ieeexplore.ieee.org/document/10394360), **Yi Yu**, Shengyue Yao, Kexin Wang, Yan Chen, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 3186-3191, 2023 [🏙️ Smart Cities, Optimization]
 
-- [Optimize the accessibility of healthcare facilities via ACP-based approach](https://ieeexplore.ieee.org/document/10394049), Xinyi Lv, **Yi Yu***, Xinzhao Xie, Fei-Yue Wang, Yilun Lin, Yan Chen, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2023 [🏙️ Smart Cities, Optimization]
+<!-- - [Optimize the accessibility of healthcare facilities via ACP-based approach](https://ieeexplore.ieee.org/document/10394049), Xinyi Lv, **Yi Yu***, Xinzhao Xie, Fei-Yue Wang, Yilun Lin, Yan Chen, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2023 [🏙️ Smart Cities, Optimization] -->
 
 - [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/abstract/document/10421950), Jingru Yu, **Yi Yu**, Shengyue Yao, Xuhong Wang, Fei-Yue Wang, Yilun Lin, *2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)*, pp. 5397-5402, 2023 [🏙️ Smart Cities, Optimization]
 
 
 - [Identifying traffic clusters in urban networks based on graph theory using license plate recognition data](https://www.sciencedirect.com/science/article/pii/S037843712200044X), **Yi Yu**, Yanlei Cui, Jiaqi Zeng, Chunguang He, Dianhai Wang, *Physica A: Statistical Mechanics and its Applications*, 591, 126750, 2022 [🏙️ Smart Cities, Machine Learning]
 
-- [Intersection traffic deadlock formation and its probability: A petri net-based modeling approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12211), Haichao Qi, **Yi Yu**, Qianwen Tang, Xinyi Hu, *IET Intelligent Transport Systems*, 16(10), 1342-1363, 2022 [🏙️ Smart Cities, Petri Net]
+<!-- - [Intersection traffic deadlock formation and its probability: A petri net-based modeling approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12211), Haichao Qi, **Yi Yu**, Qianwen Tang, Xinyi Hu, *IET Intelligent Transport Systems*, 16(10), 1342-1363, 2022 [🏙️ Smart Cities, Petri Net] -->
 
 - [Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach](https://ascelibrary.org/doi/10.1061/%28ASCE%29UP.1943-5444.0000775), Yanlei Cui, **Yi Yu**, Zhengyi Cai, Dianhai Wang, *Journal of Urban Planning and Development*, 148(1), 04021062, 2022 [🏙️ Smart Cities, Optimization]
 
@@ -123,11 +121,3 @@ Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang
 I believe that the true value of AI research lies not merely in technical advancement, but in creating meaningful positive impact on society. My commitment is to develop AI systems that are not only powerful, but also responsible, equitable, and beneficial to humanity.
 
 My interdisciplinary background enables me to approach challenges from multiple perspectives. I strive to create solutions that thoughtfully balance technological innovation with ethical considerations and societal implications. I am passionate about contributing to the academic community and nurturing the next generation of researchers, believing that through collaboration and knowledge sharing, we can collectively build AI technologies that truly serve humanity.
-
-
-🛠 Services
-======
-
-* Journal Reviewer: IEEE Transactions on Systems, Man, and Cybernetics, Transportation Research Part C, Journal of Advanced Transportation, IET Intelligent Transport Systems
-
-* Conference Reviewer: AAAI, ACL, EMNLP, IEEE IV, IEEE ITSC
