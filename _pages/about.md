@@ -83,22 +83,22 @@ Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang
 - [Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents](http://arxiv.org/abs/2509.25302), Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao, *AAAI 2025* (submitted). [🛡️AI Security, LLM Agent]
 
 
-- [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753), Xiangmin Yang, **Yi Yu**, Yuxiang Feng, Washington Yotto Ochieng, *Journal of Advanced Transportation*, 2024 (1): 3035753.
+- [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753), Xiangmin Yang, **Yi Yu**, Yuxiang Feng, Washington Yotto Ochieng, *Journal of Advanced Transportation*, 2024 (1): 3035753. [🏙️ Smart Cities, MARL]
 
-- [SWDPM: A Social Welfare-Optimized Data Pricing Mechanism](https://ieeexplore.ieee.org/document/10394125), **Yi Yu**, Shengyue Yao, Juanjuan Li, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906, 2023
+- [SWDPM: A Social Welfare-Optimized Data Pricing Mechanism](https://ieeexplore.ieee.org/document/10394125), **Yi Yu**, Shengyue Yao, Juanjuan Li, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906, 2023 [🏙️ Smart Cities, Optimization]
 
-- [Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System](https://ieeexplore.ieee.org/document/10394360), **Yi Yu**, Shengyue Yao, Kexin Wang, Yan Chen, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 3186-3191, 2023
+- [Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System](https://ieeexplore.ieee.org/document/10394360), **Yi Yu**, Shengyue Yao, Kexin Wang, Yan Chen, Fei-Yue Wang, Yilun Lin, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 3186-3191, 2023 [🏙️ Smart Cities, Optimization]
 
-- [Optimize the accessibility of healthcare facilities via ACP-based approach](https://ieeexplore.ieee.org/document/10394049), Xinyi Lv, **Yi Yu***, Xinzhao Xie, Fei-Yue Wang, Yilun Lin, Yan Chen, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2023 
+- [Optimize the accessibility of healthcare facilities via ACP-based approach](https://ieeexplore.ieee.org/document/10394049), Xinyi Lv, **Yi Yu***, Xinzhao Xie, Fei-Yue Wang, Yilun Lin, Yan Chen, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2023 [🏙️ Smart Cities, Optimization]
 
-- [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/abstract/document/10421950), Jingru Yu, **Yi Yu**, Shengyue Yao, Xuhong Wang, Fei-Yue Wang, Yilun Lin, *2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)*, pp. 5397-5402, 2023
+- [RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing](https://ieeexplore.ieee.org/abstract/document/10421950), Jingru Yu, **Yi Yu**, Shengyue Yao, Xuhong Wang, Fei-Yue Wang, Yilun Lin, *2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)*, pp. 5397-5402, 2023 [🏙️ Smart Cities, Optimization]
 
 
-- [Identifying traffic clusters in urban networks based on graph theory using license plate recognition data](https://www.sciencedirect.com/science/article/pii/S037843712200044X), **Yi Yu**, Yanlei Cui, Jiaqi Zeng, Chunguang He, Dianhai Wang, *Physica A: Statistical Mechanics and its Applications*, 591, 126750, 2022
+- [Identifying traffic clusters in urban networks based on graph theory using license plate recognition data](https://www.sciencedirect.com/science/article/pii/S037843712200044X), **Yi Yu**, Yanlei Cui, Jiaqi Zeng, Chunguang He, Dianhai Wang, *Physica A: Statistical Mechanics and its Applications*, 591, 126750, 2022 [🏙️ Smart Cities, Machine Learning]
 
-- [Intersection traffic deadlock formation and its probability: A petri net-based modeling approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12211), Haichao Qi, **Yi Yu**, Qianwen Tang, Xinyi Hu, *IET Intelligent Transport Systems*, 16(10), 1342-1363, 2022
+- [Intersection traffic deadlock formation and its probability: A petri net-based modeling approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12211), Haichao Qi, **Yi Yu**, Qianwen Tang, Xinyi Hu, *IET Intelligent Transport Systems*, 16(10), 1342-1363, 2022 [🏙️ Smart Cities, Petri Net]
 
-- [Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach](https://ascelibrary.org/doi/10.1061/%28ASCE%29UP.1943-5444.0000775), Yanlei Cui, **Yi Yu**, Zhengyi Cai, Dianhai Wang, *Journal of Urban Planning and Development*, 148(1), 04021062, 2022
+- [Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach](https://ascelibrary.org/doi/10.1061/%28ASCE%29UP.1943-5444.0000775), Yanlei Cui, **Yi Yu**, Zhengyi Cai, Dianhai Wang, *Journal of Urban Planning and Development*, 148(1), 04021062, 2022 [🏙️ Smart Cities, Optimization]
 
 
 
