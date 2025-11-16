@@ -48,26 +48,17 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 
 [EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models](https://aclanthology.org/2025.findings-acl.754/)
 
-Yu, X., **Yu, Y.**, Liu, D., et al.
+Yu, X., ** Yu, Y.* **, Liu, D., et al.
 
-*In Findings of the Association for Computational Linguistics: ACL 2025*
 
-- Proposes a comprehensive benchmark for evaluating LLM-generated text detection in real-world evolving scenarios
-- Addresses the critical challenge of detecting AI-generated content across different LLM versions and generations
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Building intelligence identification system via large language model watermarking: a survey and beyond](https://link.springer.com/article/10.1007/s10462-025-11139-2)
+[Building intelligence identification system via large language model watermarking: a survey and beyond](https://link.springer.com/article/10.1007/s10462-025-11222-w)
 
 Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li, L., Wang, F.-Y.
 
-*Artificial Intelligence Review, 58(8), 1-58*
 
-- Comprehensive survey on LLM watermarking techniques for intelligence identification and content authentication
-- Explores methodologies, challenges, and future directions in building robust AI content identification systems
 </div>
 </div>
 
@@ -111,7 +102,7 @@ Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y.
 
 
 
-My research focuses on:
+<!-- My research focuses on:
 - **Responsible AI** development ensuring trustworthy and equitable smart city solutions
 - **Multimodal Large Language Models (MLLMs)** for real-world safety applications
 - **AI-driven optimization** of intelligent transportation systems
@@ -120,8 +111,7 @@ My research focuses on:
 ## Research Highlights
 - **25+ peer-reviewed publications** in top-tier journals and conferences
 - **Interdisciplinary & International research expertise:** Bridging AI, Transportation Engineering, and Legal frameworks for comprehensive smart city solutions. Joint research partnerships with Imperial College London.
-- **Real-world impact & practical value:** Research findings successfully implemented in urban traffic systems with measurable improvements in city-scale applications
-
+- **Real-world impact & practical value:** Research findings successfully implemented in urban traffic systems with measurable improvements in city-scale applications -->
 
 
 ## Research Philosophy
