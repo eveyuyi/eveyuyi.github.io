@@ -114,7 +114,7 @@ Jiaqi Zeng, **Yi Yu**, Y. Chen, D. Yang, L. Zhang, Dianhai Wang
 - **Real-world impact & practical value:** Research findings successfully implemented in urban traffic systems with measurable improvements in city-scale applications -->
 
 
-## Research Philosophy
+Research Philosophy
 ======
 
 > *"It is better to light a candle than to curse the darkness."*
