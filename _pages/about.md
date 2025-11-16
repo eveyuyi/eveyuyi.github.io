@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Young Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies in leveraging cutting-edge AI technologies to ensure the safe, efficient development of smart cities via solving complex mobility challenges.
+I am currently a Young Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) specializing in the intersection of Trustworthy Large Language Models and Intelligent Systems. My passion lies in advancing theoretical foundations and practical applications of AI, translating innovations into practical applications that ensure safe, efficient, and equitable AI applications in real-world scenarios.
 
-I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp), focusing on comprehensive urban traffic state evaluation systems that have been successfully applied in Hangzhou City Brain projects. During my PhD, I worked at Imperial College London as a visiting scholar, collaborating with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. Prior to that, I obtained my bachelor's degree in Civil Engineering with a minor in Law from [Zhejiang University](https://www.zju.edu.cn).
+I received my PhD from [Zhejiang University](https://www.zju.edu.cn), where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp), focusing on comprehensive urban traffic state evaluation systems that have been successfully applied in Hangzhou City Brain projects. During my PhD, I worked at [Imperial College London](https://www.imperial.ac.uk/) as a visiting scholar, collaborating with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree in Civil Engineering with a minor in Law from [Zhejiang University](https://www.zju.edu.cn).
 
 I have authored 25+ papers at top-tier AI and interdisciplinary venues and journals including ACL, EMNLP, IEEE ITSC, and Transportation Research Part C. My interdisciplinary background allows me to bridge technological innovation with trustworthy frameworks and societal considerations, fostering solutions with real-world impact in urban systems and beyond.
 
 
 
-## 📖 Educations
+📖 Educations
+======
+
 
 * *2017.09 - 2022.06*, PhD, Zhejiang University, Hangzhou, China. (GPA 92.2/100, Rank 3/53)
 * *2020.12 - 2021.05*, Joint PhD, Imperial College London, London, UK. (Supported by CSC)
@@ -57,6 +59,7 @@ Xiao Yu, **Yi Yu***, Dongrui Liu, Jing Shao.
 [X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Jailbreak Attacks without Compromising Usability](https://aclanthology.org/2025.findings-emnlp.282/)
 
 Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
+
 [🛡️LLM Safety, Representation Editing]
 
 [**Project**](https://github.com/AI45Lab/X-Boundary) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -71,6 +74,7 @@ Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 [Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense](https://ieeexplore.ieee.org/document/10588563)
 
 **Yi Yu**, Shengyue Yao, Tianchen Zhou, Yue Fu, Jingru Yu, Dianhai Wang, Xuhong Wang, Yan Chen, Yilun Lin
+
 [🏙️ Smart Cities, LLM Application]
 
 </div>
@@ -86,7 +90,6 @@ Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 
 - [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law](https://doi.org/10.48550/arXiv.2507.18576), Shanghai AI Lab, Yicheng Bao, Guanxu Chen, et al. (including **Yi Yu**), *arXiv preprint*, 2025. [🛡️AI Safety, LLM Agent]
 
-- [Navigating the Data Trading Crossroads: An Interdisciplinary Survey](https://doi.org/10.48550/arXiv.2407.11466), **Yi Yu**, Jingru Yu, Xuhong Wang, et al., Submitted to *IEEE TSMC*, 2024. [🏙️ Smart Cities, Data Trading]
 
 - [The Shadow of Fraud: The Emerging Danger of AI-Powered Social Engineering and Its Possible Cure](https://doi.org/10.48550/arXiv.2407.15912), Jingru Yu, **Yi Yu**, Xuhong Wang, et al., Submitted to *IEEE TSMC*, 2024. [🛡️AI Safety, Social Engineering]
 
