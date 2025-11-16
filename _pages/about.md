@@ -43,7 +43,7 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 📝 Selected Publications
 ======
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/iceberg2_pub.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/iceberg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models](https://aclanthology.org/2025.findings-acl.754/)
@@ -53,7 +53,19 @@ Yu, X., **Yu, Y.***, Liu, D., et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIR 2025</div><img src='images/watermark_pub.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='/images/Xboundary.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Jailbreak Attacks without Compromising Usability](https://aclanthology.org/2025.findings-emnlp.282/)
+
+Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Review</div><img src='images/watermark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building intelligence identification system via large language model watermarking: a survey and beyond](https://link.springer.com/article/10.1007/s10462-025-11222-w)
@@ -63,7 +75,18 @@ Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2024</div><img src='/images/data_on_the_move.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense](https://ieeexplore.ieee.org/document/10588563)
+
+**Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAT 2024</div><img src='images/MARL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753)
@@ -73,15 +96,6 @@ Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense](https://ieeexplore.ieee.org/document/10588563)
-
-**Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y.
-
-</div>
-</div>
 
 - [Trajectory-as-a-Sequence: A novel travel mode identification framework](https://www.sciencedirect.com/science/article/pii/S0968090X22003333), Zeng, J., **Yu, Y.**, Chen, Y., Yang, D., Zhang, L., Wang, D., *Transportation Research Part C: Emerging Technologies*, 146, 103957, 2023
 
