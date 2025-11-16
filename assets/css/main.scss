@@ -113,7 +113,13 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-// Reduce spacing after Selected Publications heading
+// Adjust spacing for main sections
 .page__content h2 {
+    margin-top: 2em;
     margin-bottom: 0.5em;
 }
+
+// // First h2 doesn't need top margin
+// .page__content h2:first-of-type {
+//     margin-top: 0;
+// }
