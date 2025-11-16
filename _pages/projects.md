@@ -29,7 +29,7 @@ control based on big data <!-- 基于大数据的城市交通本征获取与需�
 
 
 
-### Visiting Projects
+## Visiting Projects
 
 | Period | Title | University | Sponsor | Role |
 | :-----| :----- | :----- |
@@ -37,10 +37,10 @@ control based on big data <!-- 基于大数据的城市交通本征获取与需�
 | 2019.08 | Go Global | University of Tokyo, Waseda University | Zhejiang University | Academic Seminar & Presentation|
 | 2018.08  | Go Global | University of Toronto, University of Ottawa, Western University, Queens Unversity | Zhejiang University | Academic Seminar & Presentation|
 | 2014.02-2014.03 | York University | / | Academic & Culture Lectures |
-<!-- 
+ 
 
 
-### Research Projects
+### Scientific Exploration Projects
 
 | Period | Title | Sponsor | Role |
 | :----- | :----- |
@@ -51,7 +51,7 @@ control based on big data <!-- 基于大数据的城市交通本征获取与需�
 | 2015-2016 | Research on piezoelectric power generation structure of cantilever beam in high-speed railway tunnel <!-- 高速铁路隧道内悬臂梁压电发电结构研究 --> | Student Research Training Program in Zhejiang University | Main member |
 | 2014-2015 | A survey and research of ancient building protection <!-- 古建筑保护的考察及研究 --> | Student Quality Training Project in Zhejiang University <!-- 浙江大学学生素质训练 --> | Main member |
 | 2014-2015 | Financial planning ability training for college students <!-- 大学生个人理财规划能力训练营 --> | Student Quality Training Project in Zhejiang University <!-- 浙江大学学生素质训练 --> | Main member |
- -->
+
 
 
 
