@@ -19,7 +19,7 @@ You can find the most recent publications on [Google Scholar](https://scholar.go
 Conference Publications
 ======
 
-* Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao. (2025). Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents. * Submitted to ICLR 2026*. https://doi.org/10.48550/arXiv.2509.25302.
+* Boxuan Zhang*, **Yi Yu***, Jiaxuan Guo, Jing Shao. (2025). Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents. Submitted to *ICLR 2026*. https://doi.org/10.48550/arXiv.2509.25302.
 
 
 * Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao. (2025). X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Jailbreak Attacks without Compromising Usability. In *EMNLP 2025*. Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-emnlp.282.

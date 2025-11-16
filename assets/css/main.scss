@@ -47,18 +47,20 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
+    margin-bottom: 0.5em;
 
 
     .paper-box-image{
         justify-content: center;
         display: flex;
         width: 100%;
-        max-width: 400px;
+        max-width: 300px;
         margin: 0 auto;
         order: 2;
         img {
             width: 100%;
+            max-height: 180px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -72,8 +74,8 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 150px;
+            max-width: 35%;
             margin: 0;
             order: 1;
         }
@@ -81,7 +83,7 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 65%;
             order: 2;
         }
 
@@ -109,4 +111,9 @@ h1:before, .anchor:before {
     color: white;
     background-color: #3674B5;
     font-size: .8em;
+}
+
+// Reduce spacing after Selected Publications heading
+.page__content h2 {
+    margin-bottom: 0.5em;
 }
