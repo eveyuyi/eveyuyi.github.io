@@ -63,6 +63,7 @@ Xiao Yu, **Yi Yu***, Dongrui Liu, Jing Shao.
 Xiaoya Lu, Dongrui Liu, **Yi Yu**, Luxin Xu, Jing Shao
 
 [**Project**](https://github.com/AI45Lab/X-Boundary) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/AI45Lab/X-Boundary)
 </div>
 </div>
 
