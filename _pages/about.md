@@ -96,10 +96,18 @@ Zeng, J., **Yu, Y.**, Chen, Y., Yang, D., Zhang, L., Wang, D.
 </div>
 </div>
 
+- Boxuan Zhang*, **Yi Yu**, et al., Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents, *AAAI 2025*(submitted). [AI Security, LLM Agent]
+
 
 - [Improving the Urban Transport System Resilience Through Adaptive Traffic Signal Control Enabled by Decentralised Multiagent Reinforcement Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/3035753), Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y., Journal of Advanced Transportation 2024 (1): 3035753.
 
 - [SWDPM: A Social Welfare-Optimized Data Pricing Mechanism](https://ieeexplore.ieee.org/document/10394125), **Yu, Y.**, Yao, S., Li, J., Wang, F.-Y., Lin, Y., *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, pp. 2900-2906, 2023
+
+- Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System, **Yi Yu**, et al., *IEEE SMC 2023*, Hawaii, USA. [Optimization, Operations Research]
+
+- Optimize the accessibility of healthcare facilities via ACP-based approach. Xinyi Lv, **Yi Yu***, Xinzhao Xie, Fei-Yue Wang, Yilun Lin, and Yan Chen.  *IEEE SMC 2023*, Hawaii, USA. 
+
+- RoW-based Parallel Control for Mixed Traffic Scenario: A Case Study on Lane-Changing, Jingru Yu, **Yi Yu**, et. al. In 2023 IEEE ITSC, Spain.
 
 
 - [Identifying traffic clusters in urban networks based on graph theory using license plate recognition data](https://www.sciencedirect.com/science/article/pii/S037843712200044X), **Yu, Y.**, Cui, Y., Zeng, J., He, C., Wang, D., *Physica A: Statistical Mechanics and its Applications*, 591, 126750, 2022
@@ -107,7 +115,6 @@ Zeng, J., **Yu, Y.**, Chen, Y., Yang, D., Zhang, L., Wang, D.
 - [Intersection traffic deadlock formation and its probability: A petri net-based modeling approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12211), Qi, H., **Yu, Y.**, Tang, Q., Hu, X., *IET Intelligent Transport Systems*, 16(10), 1342-1363, 2022
 
 - [Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach](https://ascelibrary.org/doi/10.1061/%28ASCE%29UP.1943-5444.0000775), Cui, Y., **Yu, Y.**, Cai, Z., Wang, D., *Journal of Urban Planning and Development*, 148(1), 04021062, 2022
-
 
 
 
