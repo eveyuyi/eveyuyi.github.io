@@ -43,21 +43,22 @@ I have authored 25+ papers at top-tier AI and interdisciplinary venues and journ
 📝 Selected Publications
 ======
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/iceberg2_pub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EvoBench: Towards Real-World LLM-Generated Text Detection Benchmarking for Evolving Large Language Models](https://aclanthology.org/2025.findings-acl.754/)
 
-Yu, X., ** Yu, Y.* **, Liu, D., et al.
+Yu, X., **Yu, Y.***, Liu, D., et al.
 
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIR 2025</div><img src='images/watermark_pub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building intelligence identification system via large language model watermarking: a survey and beyond](https://link.springer.com/article/10.1007/s10462-025-11222-w)
 
 Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li, L., Wang, F.-Y.
-
 
 </div>
 </div>
@@ -69,10 +70,6 @@ Wang, X., Jiang, H., **Yu, Y.**, Yu, J., Lin, Y., Yi, P., Wang, Y., Qiao, Y., Li
 
 Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y.
 
-*Journal of Advanced Transportation, 2024(1), 3035753*
-
-- Develops decentralized multi-agent reinforcement learning framework for adaptive traffic signal control
-- Demonstrates significant improvement in urban transport system resilience and efficiency
 </div>
 </div>
 
@@ -83,10 +80,6 @@ Yang, X., **Yu, Y.**, Feng, Y., Ochieng, W. Y.
 
 **Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y.
 
-*2024 IEEE Intelligent Vehicles Symposium (IV), pp. 521-526*
-
-- Introduces an AI agent-powered platform for traffic data trading with common sense reasoning capabilities
-- Enables efficient and intelligent data exchange in intelligent transportation systems
 </div>
 </div>
 
