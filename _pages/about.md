@@ -10,20 +10,7 @@ redirect_from:
 
 I am currently a Young Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies in leveraging cutting-edge AI technologies to ensure the safe, efficient development of smart cities via solving complex mobility challenges.
 
-My research focuses on:
-- **Responsible AI** development ensuring trustworthy and equitable smart city solutions
-- **Multimodal Large Language Models (MLLMs)** for real-world safety applications
-- **AI-driven optimization** of intelligent transportation systems
-- **Multi-agent systems** and reinforcement learning for traffic control
-
-## Research Highlights
-- **25+ peer-reviewed publications** in top-tier journals and conferences
-- **Interdisciplinary & International research expertise:** Bridging AI, Transportation Engineering, and Legal frameworks for comprehensive smart city solutions. Joint research partnerships with Imperial College London.
-- **Real-world impact & practical value:** Research findings successfully implemented in urban traffic systems with measurable improvements in city-scale applications
-
-## Academic Background
-
-I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp). My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017.
+I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp), focusing on comprehensive urban traffic state evaluation systems that have been successfully applied in Hangzhou City Brain projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely with [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017.
 
 My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored 25+ peer-reviewed publications in top-tier journals and conferences, and actively contributed to national and municipal research projects. I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serving as a reviewer for prestigious journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
 
@@ -36,7 +23,7 @@ As a researcher, I am committed to developing AI technologies that not only adva
 📖 Educations
 =====
 
-* 2017.09 - 2022.06, PhD, Zhejiang University, Hangzhou, China. (GPA 92.2/100, Rank 3/53)
+* *2017.09 - 2022.06*, PhD, Zhejiang University, Hangzhou, China. (GPA 92.2/100, Rank 3/53)
 * 2020.12 - 2021.05, Joint PhD, Imperial College London, London, UK. (Supported by CSC)
 * 2013.09 - 2017.06, B.S., Zhejiang University, Hangzhou, China. (Civil Engineering, GPA 3.72/4.0)
 * 2013.09 - 2017.06, Minor, Zhejiang University, Hangzhou, China. (Law, GPA 3.78/4.0)
@@ -81,3 +68,18 @@ Selected Publications
 * **Yu, Y.**, Yao, S., Zhou, T., Fu, Y., Yu, J., Wang, D., Wang, X., Chen, C., Lin, Y. (2024). Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense. In 2024 IEEE Intelligent Vehicles Symposium (IV), pp. 521-526.
 
 * **Yu, Y.**, Yao, S., Li, J., Wang, F.-Y., Lin, Y. (2023). SWDPM: A Social Welfare-Optimized Data Pricing Mechanism. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 2900-2906.
+
+
+
+My research focuses on:
+- **Responsible AI** development ensuring trustworthy and equitable smart city solutions
+- **Multimodal Large Language Models (MLLMs)** for real-world safety applications
+- **AI-driven optimization** of intelligent transportation systems
+- **Multi-agent systems** and reinforcement learning for traffic control
+
+## Research Highlights
+- **25+ peer-reviewed publications** in top-tier journals and conferences
+- **Interdisciplinary & International research expertise:** Bridging AI, Transportation Engineering, and Legal frameworks for comprehensive smart city solutions. Joint research partnerships with Imperial College London.
+- **Real-world impact & practical value:** Research findings successfully implemented in urban traffic systems with measurable improvements in city-scale applications
+
+## Academic Background
