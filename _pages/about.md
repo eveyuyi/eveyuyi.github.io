@@ -33,15 +33,31 @@ As a researcher, I am committed to developing AI technologies that not only adva
 
 > *"It is better to light a candle than to curse the darkness."*
 
-Education
+📖 Educations
 =====
 
-| 📅 **Period** | 🎓 **Degree** | 🏛️ **Institution** | 📚 **Major** | 🏆 **Achievement** |
+* 2017.09 - 2022.06, PhD, Zhejiang University, Hangzhou, China. (GPA 92.2/100, Rank 3/53)
+* 2020.12 - 2021.05, Joint PhD, Imperial College London, London, UK. (Supported by CSC)
+* 2013.09 - 2017.06, B.S., Zhejiang University, Hangzhou, China. (Civil Engineering, GPA 3.72/4.0)
+* 2013.09 - 2017.06, Minor, Zhejiang University, Hangzhou, China. (Law, GPA 3.78/4.0)
+
+<!-- | 📅 **Period** | 🎓 **Degree** | 🏛️ **Institution** | 📚 **Major** | 🏆 **Achievement** |
 |:-------------|:-------------|:-------------------|:-------------|:-------------------|
 | 2017.09-2022.06 | **PhD** | [Zhejiang University](https://www.zju.edu.cn) | Transportation Engineering | GPA 92.2/100<br>**Rank 3/53** |
 | 2020.12-2021.05 | **Joint PhD** | [Imperial College London](https://www.imperial.ac.uk) | Transportation Engineering | Joint training PhD<br>Supported by [CSC](https://www.csc.edu.cn) |
 | 2013.09-2017.06 | **B.S.** | [Zhejiang University](https://www.zju.edu.cn) | Civil Engineering | GPA 3.72/4.0<br>**Postgraduate recommendation** |
-| 2013.09-2017.06 | **Minor** | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0<br>**Graduates** |
+| 2013.09-2017.06 | **Minor** | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0<br>**Graduates** | -->
+
+
+
+🔥 News
+======
+
+* 2025.01: 🎉 EvoBench is accepted at ACL 2025 Findings!
+* 2025.01: Our survey on LLM watermarking for intelligence identification is published in Artificial Intelligence Review!
+* 2024.06: Our work on adaptive traffic signal control via MARL is published in Journal of Advanced Transportation!
+* 2024.06: Presented our AI agent-powered data trading platform at IEEE IV 2024!
+
 
 
 Selected Publications
