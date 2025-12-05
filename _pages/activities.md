@@ -4,7 +4,8 @@ permalink: /activities/
 author_profile: true
 ---
 
-Campus activities I attended during my bachelor and doctoral periods @ Zhejiang University, and during my work @ Shanghai AI Lab.
+### Invited Talks
+* 2025.12, attend the **Expert Roundtable: AI Deception**, invited by United Nation Scientific Advisory Board.
 
 ### Academic services
 * 2025.06- , Reviewer of Reliability Engineering & System Safety
